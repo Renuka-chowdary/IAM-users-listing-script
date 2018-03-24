@@ -3,12 +3,12 @@ This script lists all the IAM-users in HashedIn account.<br/>
 
 1. create a file<br/>
 
-        vi 
+        vi IAM_listing.sh
    copy,paste the script and save it.<br/>
    
 2. Run the script.<br/>
 
-        sh 
+        sh IAM_listing.sh
         
 
 The below one is the output of the this script. 
